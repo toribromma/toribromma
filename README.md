@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toribromma
-- 👀 I’m interested in React apps, Gatsby, Shopify, Typescript, and styled components
-- 🌱 I’m currently learning e-commerce Shopify Gatsby app,
+- 👀 I’m working on MERN STACK
+- 🌱 I’m currently learning revisiting past homework assignments 
 - 💞️ I’m looking to collaborate on any cool ideas,
 - 📫 How to reach me --- email @ toribromma@gmail.com
 
